@@ -10,5 +10,3 @@ This is the official repository and GitHub Pages site for our Computer Science p
 ## Project Overview
 - work in progress
 
-## GitHub Pages
-Visit the site at: `https://github.com/Solaris-14/CS-Project-25-26/tree/main` once you enable GitHub Pages in your repository settings.
